@@ -1,8 +1,8 @@
-# Automatic Genre Classifier
+# Music Genre Recognition using Deep Learning
 
 ### Overview
-Project oriented by Pascal Vallet at ENSEIRB-MATMECA:  
-Inspired in the following papers and website:
+Academic project oriented by Prof. Pascal Vallet at Bordeaux INP - ENSEIRB MATMECA [Bordeaux Graduate School of Engineering]:  
+Inspired by the following papers and website:
 ```
 @article{Tzatenakis,
   title={Musical genre classification of audio signals},
@@ -92,7 +92,7 @@ python frontend.py
 ### Contributors, Contact and License
 
 Abdelkarim Elassam,  2020  
-abdelkarimelassam@gmail.com  
+abdelkarim.elassam@enseirb-matmeca.fr  
 ENSEIRB-MATMECA (Bordeaux INP), Electronic Engineering - Signal and Image Processing
 
 Alix Yan,  2020  
